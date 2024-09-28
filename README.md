@@ -189,9 +189,7 @@ A entrega de uma DAO é a transformação de uma ideia em realidade, um conceito
 | Implantação | Deploy do contrato, distribuição de tokens | 1 semana |
 | Lançamento | Marketing, comunicação, onboarding de membros | 2 semanas |
 
-### Resumindo...
-
-A entrega de uma DAO é um processo complexo que exige conhecimento técnico, planejamento estratégico e uma forte comunidade. Ao seguir essas etapas e considerar os aspectos mencionados, estaremos mais preparado para lançar uma DAO com maior possibilidade de sucesso.
+> **A entrega de uma DAO é um processo complexo que exige conhecimento técnico, planejamento estratégico e uma forte comunidade. Ao seguir essas etapas e considerar os aspectos mencionados, estaremos mais preparado para lançar uma DAO com maior possibilidade de sucesso.**
 
 ## Construindo uma Comunidade Forte para a DAO
 
