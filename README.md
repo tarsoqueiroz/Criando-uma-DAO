@@ -1,6 +1,6 @@
 # Criando uma DAO
 
-Criando uma DAO (*Decentralized Autonomous Organizations* ou Organização Autônoma Descentralizada) nos padrões Web3.
+Criando uma DAO (*Decentralized Autonomous Organizations* / Organização Autônoma Descentralizada) nos padrões Web3.
 
 Este projeto trata sobre algumas etapas para materializar a ideia de uma DAO, que é uma organização operada por um conjunto de regras definidas em um contrato inteligente (smart contract) e executada em uma blockchain. A DAO é governada por seus membros, que tomam decisões através de processos de votação.
 
@@ -400,13 +400,13 @@ Além das ferramentas de votação, é importante registrar as contribuições d
 
 > **A escolha da ferramenta ideal para a sua DAO dependerá das suas necessidades específicas. Ao avaliar as diferentes opções disponíveis, considere fatores como o tamanho da comunidade, a complexidade das votações, a segurança, a transparência e a escalabilidade.**
 
-## Proposta para uma LLC (Limited Liability Company)
+## Proposta para uma LLC
 
-Uma LLC (Sociedade de Responsabilidade Limitada) pode ser útil para proteger os membros da DAO de responsabilidades pessoais. No entanto, a necessidade de uma LLC depende da jurisdição e da natureza da DAO.
+Uma LLC (*Limited Liability Company* / Sociedade de Responsabilidade Limitada) pode ser útil para proteger os membros da DAO de responsabilidades pessoais. No entanto, a necessidade de uma LLC depende da jurisdição e da natureza da DAO.
 
 ### O que é uma LLC e por que considerá-la em uma DAO?
 
-Uma LLC (Limited Liability Company), ou Sociedade de Responsabilidade Limitada, é uma estrutura legal que separa os ativos pessoais dos proprietários dos ativos da empresa. Isso significa que os membros da LLC não são pessoalmente responsáveis pelas dívidas da empresa.
+Uma LLC é uma estrutura legal que separa os ativos pessoais dos proprietários dos ativos da empresa. Isso significa que os membros da LLC não são pessoalmente responsáveis pelas dívidas da empresa.
 
 ### Por que considerar uma LLC em uma DAO?
 
